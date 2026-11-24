@@ -7,7 +7,7 @@ authors:
 # Unlocking Multi-Endpoint Search in Project Fleming's Generic Frontend  
 
 <center>
-<img src="https://projectfleming.tech/images/multiple_endpoint_ui.png" alt="ui" style="width: 75%;">
+<img src="https://projectfleming.net/images/multiple_endpoint_ui.png" alt="ui" style="width: 75%;">
 </center>
 
 Exciting new capabilities have arrived in Project Fleming’s **generic frontend**, transforming the way users interact with multiple Databricks endpoints. With the latest update, users can now **add multiple endpoints** through the **tools UI**, enabling seamless searches across all configured sources simultaneously. 🔍  
