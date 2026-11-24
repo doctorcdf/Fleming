@@ -8,7 +8,7 @@ authors:
 
 
 <center>
-<img src="https://projectfleming.tech/images/fleming_ai.png" alt="ui" style="width: 75%;">
+<img src="https://projectfleming.net/images/fleming_ai.png" alt="ui" style="width: 75%;">
 </center>
 
 
