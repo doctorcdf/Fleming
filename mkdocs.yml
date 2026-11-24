@@ -7,8 +7,9 @@ site_description: >-
     It contains information on how to use the project, how to contribute to it,
     and how to deploy it.
 # Repository
-repo_name: sede-open/fleming
-repo_url: https://github.com/sede-open/fleming/
+site_url: https://doctorcdf.github.io/Fleming/
+repo_name: doctorcdf/Fleming
+repo_url: https://github.com/doctorcdf/Fleming
 edit_uri: ""
 
 docs_dir: docs
@@ -104,7 +105,7 @@ markdown_extensions:
 extra:
   social:
     - icon: simple/github
-      link: https://github.com/sede-open/Fleming
+      link: https://github.com/doctorcdf/Fleming
 
 copyright: Copyright © [2025] Shell Global Solutions International B.V. All Rights Reserved.
 
