@@ -107,7 +107,7 @@ extra:
     - icon: simple/github
       link: https://github.com/doctorcdf/Fleming
 
-copyright: Copyright © [2025] Shell Global Solutions International B.V. All Rights Reserved.
+copyright: 
 
 nav:
   - Home: index.md
