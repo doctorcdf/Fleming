@@ -7,7 +7,7 @@ authors:
 # A New Chapter for Project Fleming
 
 <center>
-<img src="/images/modern-professional-wide-banner.jpg" alt="Project Fleming banner" style="width: 75%;">
+<img src="https://projectfleming.net/images/modern-professional-wide-banner.jpg" alt="Project Fleming banner" style="width: 75%;">
 </center>
 
 Today marks the start of a new chapter for Project Fleming. We have migrated the project out of the Shell open source estate, and with that transition comes a fresh domain: Project Fleming now lives at projectfleming.net (previously projectfleming.tech).
